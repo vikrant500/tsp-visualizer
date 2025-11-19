@@ -6,7 +6,7 @@ A small interactive React + Vite app that demonstrates solving the Traveling Sal
 
 Place a screenshot or animated GIF named `demo.png` in the `public/` folder of this repository, then the image below will render on GitHub and in the project docs:
 
-![Demo of TSP Visualizer](public/demo.png)
+![Demo of TSP Visualizer](demo.png)
 
 ## Quick setup
 
